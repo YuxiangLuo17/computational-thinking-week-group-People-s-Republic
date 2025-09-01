@@ -1,14 +1,13 @@
-import Luo       # e.g., luo.py
-import Untitlted-1      # e.g., anna.py
+import luo      
+import maciej      
 import bernardo
 import henning
-import myname# e.g., tom.py
-# add/remove imports to match your team
+import myname
 
 def team_intro():
     print("This is Team YourTeamNameHere. We are:")
-    print(Luo.my_name())
-    print(Untitled-1.my_name())
+    print(luo.my_name())
+    print(maciej.my_name())
     print(bernardo.my_name())
     print(henning.my_name())
     print(myname.my_name())
